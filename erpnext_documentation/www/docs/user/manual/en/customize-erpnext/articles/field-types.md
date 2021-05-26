@@ -97,7 +97,17 @@ Currency field holds numeric value, like Item Price, Amount, etc. Currency field
 
 #### Data
 
-The data field will be a simple text field. It allows you to enter a value of up to 140 characters, making this the most generic field type. To enable validations for Email, Name, or Phone Number inputs, set options to "Email", "Name", "Phone" in Settings > DocType.
+The data field will be a simple text field. It allows you to enter a value of up to 140 characters, making this the most generic field type.
+
+You can enable validations for the following types of data:
+
+1. Name
+2. Email
+3. Phone
+4. URL
+
+by setting the options to "Name", "Email", "Phone" or "URL" respectively in Settings > DocType.
+
 
 <img alt="Field Types" class="screenshot" src="{{docs_base_url}}/assets/img/customize/customize-data-field.png">
 
@@ -115,7 +125,7 @@ The setting will be applicable on all the float field.
 
 Use Geolocation field to store GeoJSON <a href="https://tools.ietf.org/html/rfc7946#section-3.3">feature_collection</a>. Stores polygons, lines, and points. Internally it uses the following custom properties for identifying a circle.
 
-For more understanding, [click here](/docs/user/manual/en/customize-erpnext/articles/geolocation-field)
+Read [Geolocation field](/docs/user/manual/en/customize-erpnext/articles/geolocation-field) for more understanding.
 
 #### HTML
 
@@ -193,7 +203,7 @@ Section Break is used to divide the form into multiple sections.
 
 #### Signature
 
-You can define the field to be a Signature field wherein you can add the Digital Signature in this field. To know more, [click here](/docs/user/manual/en/customize-erpnext/articles/signature-field)
+You can define the field to be a Signature field wherein you can add the Digital Signature in this field. Read documentation for [Signature Field](/docs/user/manual/en/customize-erpnext/articles/signature-field) to know more.
 
 #### Table MultiSelect
 

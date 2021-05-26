@@ -32,3 +32,11 @@ CAPEX
 OPEX
 KPIs
 datev
+paytm
+mpesa
+gocardless
+ewaybill
+GSTN
+Suvidha
+Adequare
+einv

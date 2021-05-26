@@ -35,6 +35,7 @@ their calculation.
 1. [Leave Type](/docs/user/manual/en/human-resources/leave-type)
 1. [Leave Period](/docs/user/manual/en/human-resources/leave-period)
 1. [Leave Policy](/docs/user/manual/en/human-resources/leave-policy)
+1. [Leave Policy Assignment](/docs/user/manual/en/human-resources/leave-policy-assignment)
 1. [Leave Allocation](/docs/user/manual/en/human-resources/leave-allocation)
 1. [Leave Application](/docs/user/manual/en/human-resources/leave-application)
 1. [Compensatory Leave Request](/docs/user/manual/en/human-resources/compensatory-leave-request)
@@ -96,6 +97,10 @@ their calculation.
 ### 1.10 Expense Claims
 1. [Expense Claim](/docs/user/manual/en/human-resources/expense-claim)
 1. [Employee Advance](/docs/user/manual/en/human-resources/employee-advance)
+
+## 1.11 Gratuity
+1. [Gratuity](/docs/user/manual/en/human-resources/gratuity)
+1. [Gratuity Rule](/docs/user/manual/en/human-resources/gratuity-rule)
 
 ### 1.11 Loans
 1. [Loan Management](/docs/user/manual/en/loan-management)
